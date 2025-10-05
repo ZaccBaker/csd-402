@@ -1,0 +1,15 @@
+VBox{
+    -fx-background-color: orange;
+}
+
+.button{
+    -fx-background-color: lightblue;
+}
+
+.button:hover{
+    -fx-border-color: black;
+}
+
+.button:pressed{
+    -fx-translate-y: 1px;
+}
